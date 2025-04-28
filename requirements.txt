@@ -1,0 +1,9 @@
+Pylance
+pandas
+numpy
+matplotlib
+scikit-learn
+requests
+ipykernel
+xgboost
+Streamlit
